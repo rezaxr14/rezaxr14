@@ -62,7 +62,6 @@ Built AI-powered fault-detection models and tools, including a voice/noise-to-mo
 - Rank 35 (99th+ percentile) in Iran's national master's entrance exam, Mechanical Engineering
 - Esteddad-e Derakhshan, Iran's national program for exceptionally talented students
 - Bonyad Nokhbegan (National Elite Foundation) award
-- Harvard CS50 certificates: AI, Python, Web, Intro to Computer Science, Cybersecurity
 
 ## Contact
 
